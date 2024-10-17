@@ -1,0 +1,12 @@
+.navbar-nav {
+    margin-left: auto; /* Alinea los enlaces a la derecha */
+}
+.navbar-nav .nav-link {
+    margin-left: 1rem; /* Ajusta la separación entre los enlaces */
+}
+.navbar-nav .nav-link:first-child {
+    margin-left: 0; /* Elimina el margen izquierdo del primer enlace */
+}
+.navbar {
+    padding: 1rem; /* Ajusta el relleno de la barra de navegación si es necesario */
+}
